@@ -1,6 +1,6 @@
 {
   "name": "uupaa.clicktoplay.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Management of the Click-To-Play resources.",
   "url": "https://github.com/uupaa/ClickToPlay.js",
   "keywords": ["Video", "Audio", "WebAudio", "iOS", "Android", "Click-to-Play", "uupaa", "WebModule", "Unstable"],

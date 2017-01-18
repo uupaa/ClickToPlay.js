@@ -7,7 +7,7 @@ Management of the Click-To-Play resources.
 This module made of [WebModule](https://github.com/uupaa/WebModule).
 
 ## Documentation
-- [Spec](https://github.com/uupaa/ClickToPlay.js/wiki/)
+- [Overview](https://github.com/uupaa/ClickToPlay.js/wiki/)
 - [API Spec](https://github.com/uupaa/ClickToPlay.js/wiki/ClickToPlay)
 
 ## Browser, NW.js and Electron
